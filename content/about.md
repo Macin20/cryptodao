@@ -9,11 +9,12 @@ draft: false
 
 「加密DAO」诞生于2023年2月，致力于打造综合开放性的优质社区，汇集行业优质资源，共享信息机遇，共创未来。加密不神秘，有DAO更容易！
 
-### 核心成员
-- 张三
-- 李四
-
 ### 找到我们
 - 推特：[@jiamizhidao](https://twitter.com/jiamizhidao)
 - 电报：[https://t.me/jiamizhidao1](https://t.me/jiamizhidao1)
 - Discord：[https://discord.gg/ufAKchfmc3](https://discord.gg/ufAKchfmc3)
+
+### 微信社群
+社区需要每一位小伙伴共建共享，所以我们会不定期清理不发言的小伙伴。
+
+![](https://cryptodao-1251547190.cos.ap-shanghai.myqcloud.com/dao/addwechat.png)
