@@ -4,6 +4,9 @@ date: 2023-04-03T19:34:38+08:00
 draft: false
 categories : ["融资周报"]
 tags : ["融资"]
+featuredImage: "/fundinginfo.jpg"
+featuredImagePreview: "/fundinginfo.jpg"
+images: ["/fundinginfo.jpg"]
 ---
 
 据多家媒体、数据平台不完全统计，本周（3.27-4.2）全球加密行业有超过 25 起投融资事件，披露的**融资总额超 2.6 亿美元**。通过[加密DAO](https://cryptodao.pro)的梳理和整合，本周加密市场披露的一级融资表现如下：
