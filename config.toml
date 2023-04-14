@@ -589,10 +589,10 @@ theme = "DoIt"
       id = ""
     #  Umami Analytics
     [params.analytics.umami]
-      data_website_id = ""
+      data_website_id = "0aa3361d-f3eb-4054-b4cd-5b92591ae36f"
       src = ""
       data_host_url = ""
-      data_domains = ""
+      data_domains = "cryptodao.pro"
     #  Plausible Analytics
     [params.analytics.plausible]
       data_domain = ""
